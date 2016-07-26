@@ -1,0 +1,18 @@
+{
+  "name": "node-wit",
+  "version": "3.2.2",
+  "description": "Needs for sample code",
+  "keywords": [
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun",
+  "dependencies": {
+    "request": "^2.69.0",
+	"body-parser":"",
+	"express":"",
+	"mysql":""
+  }
+}
